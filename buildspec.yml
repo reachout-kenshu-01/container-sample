@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    ECR_REPOSITORY: <your-ecr-repository>
+    ECR_REPOSITORY: public.ecr.aws/w1t8j9y3/test-ecr
 
 phases:
   pre_build:
